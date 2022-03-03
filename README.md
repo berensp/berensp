@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berensp
 - 👀 I’m interested in technology, healthcare, and swooping giant slalom turns ⛷
 - 🌱 I’m currently digging into certain areas of data analytics
-- 📫 you can reach me via any of my [Keybase-verified platforms/channels](https://keybase.io/berens)
+- 📫 you can reach me on all kinds of [messengers and platforms](https://berens.co/contact)
 
 <!---
 berensp/berensp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
