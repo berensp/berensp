@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berensp
 - 👀 I’m interested in technology, healthcare, and swooping giant slalom turns ⛷
-- 🌱 I’m currently digging into certain areas of data analytics
+- 🌱 [I’m currently digging into...](https://berens.co/learning/)
 - 📫 you can reach me on all kinds of [messengers and platforms](https://berens.co/contact)
 
 <!---
